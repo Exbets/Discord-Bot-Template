@@ -3,7 +3,8 @@
 > [!WARNING]
 > This is not finished and will not function as is.
 
-This is just a discord bot example written in Python.
+> [!NOTE]
+> I will be finishing it sometime so it actually works.
 
 ## Using The Repo
 
