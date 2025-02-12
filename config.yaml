@@ -1,4 +1,4 @@
-Token: 'token_here'
-Prefix: '!'
-Extensions: 
- - extensions.main
+Token: 'token_here' # bot token from discord developer portal
+Prefix: '!' # the default bot prefix for chat commands
+Extensions: # this is a list that includes files from the extensions folder
+ - extensions.main # extensions.main is used because of our file main.py in extensions

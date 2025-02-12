@@ -1,10 +1,7 @@
 # Python Discord Bot Template
 
-> [!WARNING]
-> This is not finished and will not function as is.
-
 > [!NOTE]
-> I will be finishing it sometime so it actually works.
+> This is an example discord bot written in python. I recommend using the official [documentation](https://discordpy.readthedocs.io/en/stable/) to expand further.
 
 ## Using The Repo
 
