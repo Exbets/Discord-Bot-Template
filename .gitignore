@@ -1,2 +1,6 @@
-# this is just to keep my own token private
+# This is just to keep my own token private
 token.txt
+
+__pycache__/
+*.py[cod]
+*$py.class
